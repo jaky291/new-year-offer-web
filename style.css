@@ -32,3 +32,45 @@ body{
 .banner-content p, h1{
     color: white;
 }
+/* 65% section style  */
+.first-section-container{
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    /* border: 2px solid red; */
+    margin-top: 90px;
+
+}
+.first-section-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* height: 600px; */
+    align-items: center;
+}
+.first-section-content p{
+     color: rgb(255, 0, 0);
+     font-family: Inter;
+     font-size: 24px;
+     font-weight: 300;
+}
+.first-section-content h3{
+     color: rgb(255, 0, 0);
+     font-family: Inter;
+     font-size: 40px;
+     font-weight: 500;
+}
+.first-section-content{
+     color: rgb(255, 0, 0);
+     font-family: Inter;
+     font-size: 40px;
+     font-weight: 400;
+}
+.img-container{
+    width: 500px;
+    height: 300px;
+}
+.img-container img{
+    width: 100%;
+    height: 100%;
+}
