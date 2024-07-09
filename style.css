@@ -39,13 +39,16 @@ body{
     margin: 0 auto;
     /* border: 2px solid red; */
     margin-top: 90px;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .first-section-content{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    /* height: 600px; */
+    height: 600px;
     align-items: center;
 }
 .first-section-content p{
